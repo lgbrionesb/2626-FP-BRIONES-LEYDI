@@ -14,4 +14,4 @@ Desde la carpeta del repositorio, ejecuta:
 python "Semana 13/calcular_compra.py"
 ```
 
-Con los datos de ejemplo (`precio = 10` y `cantidad = 3`), el programa muestra un total de `$30.00`.
+El programa solicita mediante `input()` el precio del producto y la cantidad comprada. Después muestra el total de la compra con dos decimales.

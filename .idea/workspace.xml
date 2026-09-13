@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e23ed3a-22d9-4e06-98fe-4af78246862c" name="Changes" comment="Tarea 13" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lgbrionesb&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lgbrionesb/2626-FP-BRIONES-LEYDI.git&quot;,
+    &quot;accountId&quot;: &quot;47f5985f-e85a-415d-8d7f-a3460584fe60&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.2524225916528307" />
+      <entry key="MS500" value="2.753996171101334" />
+      <entry key="S2" value="7.533832282306207" />
+      <entry key="S5" value="15.377267571793837" />
+      <entry key="S10" value="26.50199687688243" />
+      <entry key="S30" value="46.413586828669494" />
+      <entry key="S60" value="55.872576507631166" />
+      <entry key="M2" value="65.62554018381621" />
+      <entry key="M5" value="92.7866791009912" />
+      <entry key="M10" value="142.1742253838086" />
+      <entry key="M15" value="186.78518054071588" />
+      <entry key="M30" value="282.9679265247932" />
+      <entry key="H1" value="378.3424248790287" />
+      <entry key="H2" value="449.48818905539633" />
+      <entry key="H4" value="493.64023101406127" />
+      <entry key="D1" value="535.8827938963026" />
+      <entry key="W1" value="543.6830822361424" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.072411673821511" />
+      <entry key="MS500" value="2.676708963627849" />
+      <entry key="S2" value="7.4796185223584395" />
+      <entry key="S5" value="15.331067565235706" />
+      <entry key="S10" value="26.458189852499885" />
+      <entry key="S30" value="46.383760988653265" />
+      <entry key="S60" value="55.85367562973022" />
+      <entry key="M2" value="65.61412236618955" />
+      <entry key="M5" value="92.7796681970612" />
+      <entry key="M10" value="142.16820469928365" />
+      <entry key="M15" value="186.77962879173887" />
+      <entry key="M30" value="282.9633676425275" />
+      <entry key="H1" value="378.33915672008004" />
+      <entry key="H2" value="449.4861564454565" />
+      <entry key="H4" value="493.63908562554195" />
+      <entry key="D1" value="535.8825818420547" />
+      <entry key="W1" value="543.6830513764487" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Iz4IZnOdFes2Unbk3Qc4EPTp1h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.2626-FP-BRIONES-LEYDI.executor": "Run",
+    "Python.calcular_compra.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.2626-FP-BRIONES-LEYDI" />
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-821f704e66d9-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.9437.214" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e23ed3a-22d9-4e06-98fe-4af78246862c" name="Changes" comment="" />
+      <created>1788753999369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788753999369</updated>
+      <workItem from="1788754040453" duration="2744000" />
+      <workItem from="1789280455703" duration="6284000" />
+      <workItem from="1789355875298" duration="1460000" />
+    </task>
+    <task id="LOCAL-00001" summary="Tarea 13">
+      <option name="closed" value="true" />
+      <created>1789283124466</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1789283124466</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Tarea 13">
+      <option name="closed" value="true" />
+      <created>1789357605318</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1789357605318</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Tarea 13">
+      <option name="closed" value="true" />
+      <created>1789357817415</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1789357817415</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Tarea 13">
+      <option name="closed" value="true" />
+      <created>1789357854464</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1789357854464</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Tarea 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarea 13" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Semana 13/calcular_compra.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/2626_FP_BRIONES_LEYDI$calcular_compra.coverage" NAME="calcular_compra Coverage Results" MODIFIED="1789287371342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 13" />
+  </component>
+</project>

@@ -8,9 +8,9 @@ def calcular_total(precio, cantidad):
 
 
 if __name__ == "__main__":
-    # Datos de ejemplo de una compra.
-    precio_producto = 10
-    cantidad_productos = 3
+    # Se solicitan los datos de la compra al usuario.
+    precio_producto = float(input("Ingrese el precio del producto: "))
+    cantidad_productos = int(input("Ingrese la cantidad de productos: "))
 
     resultado = calcular_total(precio_producto, cantidad_productos)
     print(f"El total de la compra es: ${resultado:.2f}")

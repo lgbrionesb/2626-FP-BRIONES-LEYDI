@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e23ed3a-22d9-4e06-98fe-4af78246862c" name="Changes" comment="Tarea 13" />
+    <list default="true" id="4e23ed3a-22d9-4e06-98fe-4af78246862c" name="Changes" comment="Semana 13">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,12 +20,6 @@
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
-      </GitPushTagMode>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -44,23 +40,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.2524225916528307" />
-      <entry key="MS500" value="2.753996171101334" />
-      <entry key="S2" value="7.533832282306207" />
-      <entry key="S5" value="15.377267571793837" />
-      <entry key="S10" value="26.50199687688243" />
-      <entry key="S30" value="46.413586828669494" />
-      <entry key="S60" value="55.872576507631166" />
-      <entry key="M2" value="65.62554018381621" />
-      <entry key="M5" value="92.7866791009912" />
-      <entry key="M10" value="142.1742253838086" />
-      <entry key="M15" value="186.78518054071588" />
-      <entry key="M30" value="282.9679265247932" />
-      <entry key="H1" value="378.3424248790287" />
-      <entry key="H2" value="449.48818905539633" />
-      <entry key="H4" value="493.64023101406127" />
-      <entry key="D1" value="535.8827938963026" />
-      <entry key="W1" value="543.6830822361424" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0000000316610012" />
+      <entry key="S30" value="1.027950028968297" />
+      <entry key="S60" value="1.9249778670320365" />
+      <entry key="M2" value="6.425832627353466" />
+      <entry key="M5" value="18.473916717154328" />
+      <entry key="M10" value="41.965085491638526" />
+      <entry key="M15" value="74.157283390454" />
+      <entry key="M30" value="173.85503466058663" />
+      <entry key="H1" value="304.7229567871842" />
+      <entry key="H2" value="419.3417524671362" />
+      <entry key="H4" value="496.94977200177146" />
+      <entry key="D1" value="575.5126517351151" />
+      <entry key="W1" value="590.4626541115005" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -82,23 +78,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.072411673821511" />
-      <entry key="MS500" value="2.676708963627849" />
-      <entry key="S2" value="7.4796185223584395" />
-      <entry key="S5" value="15.331067565235706" />
-      <entry key="S10" value="26.458189852499885" />
-      <entry key="S30" value="46.383760988653265" />
-      <entry key="S60" value="55.85367562973022" />
-      <entry key="M2" value="65.61412236618955" />
-      <entry key="M5" value="92.7796681970612" />
-      <entry key="M10" value="142.16820469928365" />
-      <entry key="M15" value="186.77962879173887" />
-      <entry key="M30" value="282.9633676425275" />
-      <entry key="H1" value="378.33915672008004" />
-      <entry key="H2" value="449.4861564454565" />
-      <entry key="H4" value="493.63908562554195" />
-      <entry key="D1" value="535.8825818420547" />
-      <entry key="W1" value="543.6830513764487" />
+      <entry key="MS100" value="0.7737824967711949" />
+      <entry key="MS500" value="0.950000382874886" />
+      <entry key="S2" value="0.9872586443741826" />
+      <entry key="S5" value="0.9948838432045924" />
+      <entry key="S10" value="0.9974386729242939" />
+      <entry key="S30" value="1.027075393365742" />
+      <entry key="S60" value="1.924198364069732" />
+      <entry key="M2" value="6.424534889675271" />
+      <entry key="M5" value="18.472174122237334" />
+      <entry key="M10" value="41.962890403210686" />
+      <entry key="M15" value="74.15467214776446" />
+      <entry key="M30" value="173.85193631576686" />
+      <entry key="H1" value="304.720150992028" />
+      <entry key="H2" value="419.33976408098437" />
+      <entry key="H4" value="496.94857176969623" />
+      <entry key="D1" value="575.5124160067575" />
+      <entry key="W1" value="590.4626194519597" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -118,6 +114,7 @@
     "Python.calcular_compra.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
@@ -145,7 +142,8 @@
       <updated>1788753999369</updated>
       <workItem from="1788754040453" duration="2744000" />
       <workItem from="1789280455703" duration="6284000" />
-      <workItem from="1789355875298" duration="1460000" />
+      <workItem from="1789355875298" duration="3471000" />
+      <workItem from="1789941051904" duration="1324000" />
     </task>
     <task id="LOCAL-00001" summary="Tarea 13">
       <option name="closed" value="true" />
@@ -179,7 +177,55 @@
       <option name="project" value="LOCAL" />
       <updated>1789357854464</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Tarea 13">
+      <option name="closed" value="true" />
+      <created>1789358137293</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1789358137293</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Tarea 13">
+      <option name="closed" value="true" />
+      <created>1789358220893</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1789358220893</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Tarea 13">
+      <option name="closed" value="true" />
+      <created>1789358233109</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1789358233109</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Tarea 13">
+      <option name="closed" value="true" />
+      <created>1789358283557</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1789358283557</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Tarea 13">
+      <option name="closed" value="true" />
+      <created>1789358324051</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1789358324051</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Semana 13">
+      <option name="closed" value="true" />
+      <created>1789359385331</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1789359385331</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,7 +245,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Tarea 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tarea 13" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="Semana 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Semana 13" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

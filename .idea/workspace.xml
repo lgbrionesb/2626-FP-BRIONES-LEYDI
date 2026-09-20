@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e23ed3a-22d9-4e06-98fe-4af78246862c" name="Changes" comment="Semana 14" />
+    <list default="true" id="4e23ed3a-22d9-4e06-98fe-4af78246862c" name="Changes" comment="Semana 14">
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/2626_FP_BRIONES_LEYDI.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/2626_FP_BRIONES_LEYDI.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,23 +41,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0000000000000022" />
-      <entry key="S10" value="1.0000003270669613" />
-      <entry key="S30" value="1.116554366675524" />
-      <entry key="S60" value="3.9921914022742073" />
-      <entry key="M2" value="17.114048538309227" />
-      <entry key="M5" value="56.37048016288017" />
-      <entry key="M10" value="112.68098169775394" />
-      <entry key="M15" value="161.10598811445763" />
-      <entry key="M30" value="265.2542300980883" />
-      <entry key="H1" value="369.819892424997" />
-      <entry key="H2" value="448.7893500212286" />
-      <entry key="H4" value="498.18731150372054" />
-      <entry key="D1" value="545.7108153800444" />
-      <entry key="W1" value="554.5131075431542" />
+      <entry key="MS100" value="1.0000000017723292" />
+      <entry key="MS500" value="1.0429222581071231" />
+      <entry key="S2" value="3.2384570785619182" />
+      <entry key="S5" value="8.294889239320579" />
+      <entry key="S10" value="14.990162860591367" />
+      <entry key="S30" value="29.828823662549347" />
+      <entry key="S60" value="38.4208810764455" />
+      <entry key="M2" value="48.16678485292009" />
+      <entry key="M5" value="68.00399440496157" />
+      <entry key="M10" value="104.44642049201953" />
+      <entry key="M15" value="145.68079538967984" />
+      <entry key="M30" value="254.63496394323565" />
+      <entry key="H1" value="382.8128282856785" />
+      <entry key="H2" value="488.8263571000166" />
+      <entry key="H4" value="558.5111539435469" />
+      <entry key="D1" value="627.74400996165" />
+      <entry key="W1" value="640.7896611250028" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -76,23 +79,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.7120250977985358" />
-      <entry key="MS500" value="0.9343273468831804" />
-      <entry key="S2" value="0.9831612772403993" />
-      <entry key="S5" value="0.9932301768328142" />
-      <entry key="S10" value="0.9966096661956957" />
-      <entry key="S30" value="1.1153142469553663" />
-      <entry key="S60" value="3.9902503543458288" />
-      <entry key="M2" value="17.110121220239645" />
-      <entry key="M5" value="56.36536534581448" />
-      <entry key="M10" value="112.6756722082381" />
-      <entry key="M15" value="161.10081684400302" />
-      <entry key="M30" value="265.24975738472756" />
-      <entry key="H1" value="369.8165991941235" />
-      <entry key="H2" value="448.78727212844143" />
-      <entry key="H4" value="498.18613167409563" />
-      <entry key="D1" value="545.7105955107438" />
-      <entry key="W1" value="554.5130755093836" />
+      <entry key="MS100" value="0.895025072536395" />
+      <entry key="MS500" value="1.0201517178103414" />
+      <entry key="S2" value="3.2201695740152143" />
+      <entry key="S5" value="8.27384461517661" />
+      <entry key="S10" value="14.971227124376824" />
+      <entry key="S30" value="29.81704499799251" />
+      <entry key="S60" value="38.41345653028912" />
+      <entry key="M2" value="48.1621213091971" />
+      <entry key="M5" value="68.00109374341771" />
+      <entry key="M10" value="104.44349431536176" />
+      <entry key="M15" value="145.67757164015694" />
+      <entry key="M30" value="254.63150346188033" />
+      <entry key="H1" value="382.8098879688915" />
+      <entry key="H2" value="488.8243468058926" />
+      <entry key="H4" value="558.5099632761182" />
+      <entry key="D1" value="627.7437798946459" />
+      <entry key="W1" value="640.7896273938378" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -104,26 +107,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.2626-FP-BRIONES-LEYDI.executor": "Run",
-    "Python.calcular_compra.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "Merging main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.2626-FP-BRIONES-LEYDI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calcular_compra.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.2626-FP-BRIONES-LEYDI" />
+}</component>
+  <component name="RunManager" selected="Python.calcular_promedio" />
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -142,6 +145,7 @@
       <workItem from="1789280455703" duration="6284000" />
       <workItem from="1789355875298" duration="3471000" />
       <workItem from="1789941051904" duration="1324000" />
+      <workItem from="1789947100394" duration="353000" />
     </task>
     <task id="LOCAL-00001" summary="Tarea 13">
       <option name="closed" value="true" />
@@ -247,7 +251,23 @@
       <option name="project" value="LOCAL" />
       <updated>1789945069689</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Semana 14">
+      <option name="closed" value="true" />
+      <created>1789945961288</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1789945961288</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Semana 14">
+      <option name="closed" value="true" />
+      <created>1789946111097</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1789946111097</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,7 +291,8 @@
     <MESSAGE value="Semana 13" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Semana 14" />
-    <option name="LAST_COMMIT_MESSAGE" value="Semana 14" />
+    <MESSAGE value="Corrige configuracion de Semana 14&#10;&#10;Co-authored-by: Copilot &lt;223556219+Copilot@users.noreply.github.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrige configuracion de Semana 14&#10;&#10;Co-authored-by: Copilot &lt;223556219+Copilot@users.noreply.github.com&gt;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

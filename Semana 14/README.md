@@ -8,7 +8,7 @@ Esta actividad aplica el uso de funciones con parámetros y retorno de valores
 mediante un problema sencillo de la vida real: calcular el promedio de tres
 notas.
 
-## Descripción del programa
+## Descripcion del programa
 
 El programa solicita tres notas al usuario y llama a la función
 `calcular_promedio`. Esta función recibe las tres notas como parámetros, calcula
@@ -22,6 +22,8 @@ El código incluye:
 - La palabra clave `return`.
 - Una llamada a la función.
 - La impresión del resultado en pantalla.
+- Validación de notas entre 0 y 10.
+- Aceptación de números decimales con punto o coma.
 
 ## Ejecución
 

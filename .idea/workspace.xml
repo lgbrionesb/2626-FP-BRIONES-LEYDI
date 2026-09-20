@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e23ed3a-22d9-4e06-98fe-4af78246862c" name="Changes" comment="Semana 13">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4e23ed3a-22d9-4e06-98fe-4af78246862c" name="Changes" comment="Semana 14" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,20 +41,20 @@
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
       <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0000000316610012" />
-      <entry key="S30" value="1.027950028968297" />
-      <entry key="S60" value="1.9249778670320365" />
-      <entry key="M2" value="6.425832627353466" />
-      <entry key="M5" value="18.473916717154328" />
-      <entry key="M10" value="41.965085491638526" />
-      <entry key="M15" value="74.157283390454" />
-      <entry key="M30" value="173.85503466058663" />
-      <entry key="H1" value="304.7229567871842" />
-      <entry key="H2" value="419.3417524671362" />
-      <entry key="H4" value="496.94977200177146" />
-      <entry key="D1" value="575.5126517351151" />
-      <entry key="W1" value="590.4626541115005" />
+      <entry key="S5" value="1.0000000000000022" />
+      <entry key="S10" value="1.0000003270669613" />
+      <entry key="S30" value="1.116554366675524" />
+      <entry key="S60" value="3.9921914022742073" />
+      <entry key="M2" value="17.114048538309227" />
+      <entry key="M5" value="56.37048016288017" />
+      <entry key="M10" value="112.68098169775394" />
+      <entry key="M15" value="161.10598811445763" />
+      <entry key="M30" value="265.2542300980883" />
+      <entry key="H1" value="369.819892424997" />
+      <entry key="H2" value="448.7893500212286" />
+      <entry key="H4" value="498.18731150372054" />
+      <entry key="D1" value="545.7108153800444" />
+      <entry key="W1" value="554.5131075431542" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -78,23 +76,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.7737824967711949" />
-      <entry key="MS500" value="0.950000382874886" />
-      <entry key="S2" value="0.9872586443741826" />
-      <entry key="S5" value="0.9948838432045924" />
-      <entry key="S10" value="0.9974386729242939" />
-      <entry key="S30" value="1.027075393365742" />
-      <entry key="S60" value="1.924198364069732" />
-      <entry key="M2" value="6.424534889675271" />
-      <entry key="M5" value="18.472174122237334" />
-      <entry key="M10" value="41.962890403210686" />
-      <entry key="M15" value="74.15467214776446" />
-      <entry key="M30" value="173.85193631576686" />
-      <entry key="H1" value="304.720150992028" />
-      <entry key="H2" value="419.33976408098437" />
-      <entry key="H4" value="496.94857176969623" />
-      <entry key="D1" value="575.5124160067575" />
-      <entry key="W1" value="590.4626194519597" />
+      <entry key="MS100" value="0.7120250977985358" />
+      <entry key="MS500" value="0.9343273468831804" />
+      <entry key="S2" value="0.9831612772403993" />
+      <entry key="S5" value="0.9932301768328142" />
+      <entry key="S10" value="0.9966096661956957" />
+      <entry key="S30" value="1.1153142469553663" />
+      <entry key="S60" value="3.9902503543458288" />
+      <entry key="M2" value="17.110121220239645" />
+      <entry key="M5" value="56.36536534581448" />
+      <entry key="M10" value="112.6756722082381" />
+      <entry key="M15" value="161.10081684400302" />
+      <entry key="M30" value="265.24975738472756" />
+      <entry key="H1" value="369.8165991941235" />
+      <entry key="H2" value="448.78727212844143" />
+      <entry key="H4" value="498.18613167409563" />
+      <entry key="D1" value="545.7105955107438" />
+      <entry key="W1" value="554.5130755093836" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -225,7 +223,31 @@
       <option name="project" value="LOCAL" />
       <updated>1789359385331</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Semana 14">
+      <option name="closed" value="true" />
+      <created>1789945031594</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1789945031595</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Semana 14">
+      <option name="closed" value="true" />
+      <created>1789945041893</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1789945041893</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Semana 14">
+      <option name="closed" value="true" />
+      <created>1789945069689</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1789945069689</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,7 +269,9 @@
     <MESSAGE value="Tarea 13" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="Semana 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="Semana 13" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="Semana 14" />
+    <option name="LAST_COMMIT_MESSAGE" value="Semana 14" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -262,5 +286,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/2626_FP_BRIONES_LEYDI$calcular_compra.coverage" NAME="calcular_compra Coverage Results" MODIFIED="1789287371342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 13" />
+    <SUITE FILE_PATH="coverage/2626_FP_BRIONES_LEYDI$calcular_promedio.coverage" NAME="calcular_promedio Coverage Results" MODIFIED="1789944242813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 14" />
   </component>
 </project>
